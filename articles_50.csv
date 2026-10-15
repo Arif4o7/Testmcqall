@@ -1,7 +1,7 @@
 
-"I saw ___ elephant in the zoo.","A","An","The","No article","b","🎯 Rule: Vowel sound = An। Elephant = ই-লি-ফ্যান্ট। শুরুতে /ɪ/ sound তাই An elephant।"
-"___ sun rises in the east.","A","An","The","No article","c","🎯 Rule: পৃথিবীতে একটাই আছে এমন জিনিসের আগে The। Sun একটাই তাই The sun।"
-"He is ___ honest man.","A","An","The","No article","b","🎯 Rule: H উচ্চারণ না হলে An। Honest = অনেস্ট। H silent, শুরু /ɒ/ sound তাই An honest man।"
+"I saw ___ elephant in the zoo.","A","An","The","No article",2,"🎯 Rule: Vowel sound = An। Elephant = ই-লি-ফ্যান্ট। শুরুতে /ɪ/ sound তাই An elephant।"
+"___ sun rises in the east.","A","An","The","No article",3,"🎯 Rule: পৃথিবীতে একটাই আছে এমন জিনিসের আগে The। Sun একটাই তাই The sun।"
+"He is ___ honest man.","A","An","The","No article",2,"🎯 Rule: H উচ্চারণ না হলে An। Honest = অনেস্ট। H silent, শুরু /ɒ/ sound তাই An honest man।"
 "She is ___ university student.","A","An","The","No article","a","🎯 Rule: উচ্চারণ Consonant sound = A। University = ইউ-নিভার্সিটি। শুরু /j/ sound তাই A university।"
 "We live in ___ Bangladesh.","A","An","The","No article","d","🎯 Rule: দেশ/মহাদেশ/শহরের নামের আগে Article বসে না। তাই We live in Bangladesh।"
 "___ Padma is a holy river.","A","An","The","No article","c","🎯 Rule: নদী, সাগর, মহাসাগরের নামের আগে The। The Padma, The Meghna।"
